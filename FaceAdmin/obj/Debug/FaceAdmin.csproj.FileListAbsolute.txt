@@ -1,0 +1,11 @@
+D:\c#\FaceRecognition\FaceAdmin\bin\Debug\FaceAdmin.exe.config
+D:\c#\FaceRecognition\FaceAdmin\bin\Debug\FaceAdmin.exe
+D:\c#\FaceRecognition\FaceAdmin\bin\Debug\FaceAdmin.pdb
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.Properties.Resources.resources
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.csproj.GenerateResource.cache
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.csproj.CoreCompileInputs.cache
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.exe
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.pdb
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.faceadmin.resources
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.csproj.CopyComplete
+D:\c#\FaceRecognition\FaceAdmin\obj\Debug\FaceAdmin.csprojAssemblyReference.cache
